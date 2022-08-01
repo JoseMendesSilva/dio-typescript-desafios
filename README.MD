@@ -3,6 +3,7 @@
 Desafios
 
 - 1º Desafio
+
 // Como podemos rodar isso em um arquivo .ts sem causar erros? 
 
 let employee = {};
@@ -11,6 +12,7 @@ employee.name = "John";
 
 =================================================================================
 - 2º Desafio
+
 // Como podemos melhorar o esse código usando TS? 
 
 let pessoa1 = {};
@@ -37,6 +39,7 @@ let pessoa4 = {
 
 =================================================================================
 - 3º Desafio
+
 // O código abaixo tem alguns erros e não funciona como deveria. Você pode identificar quais são e corrigi-los em um arquivo TS?
 
 let botaoAtualizar = document.getElementById('atualizar-saldo');
